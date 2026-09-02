@@ -10,11 +10,11 @@
    ============================================= */
 :root {
   /* FARBEN HIER ANPASSEN */
-  --color-primary:        #4A2B0F;   /* Dunkles Warmbraun – Hauptfarbe */
-  --color-primary-hover:  #3A1D08;
-  --color-secondary:      #2D5016;   /* Dunkelgrün – Akzentfarbe */
-  --color-secondary-hover:#1F3A0E;
-  --color-accent:         #C8963B;   /* Goldenes Amber */
+  --color-primary:        #C4050A;   /* Rot aus dem Panter-Logo – Hauptfarbe */
+  --color-primary-hover:  #970308;
+  --color-secondary:      #FFC600;   /* Gold/Gelb aus dem Panter-Logo – Akzentfarbe */
+  --color-secondary-hover:#E0AF00;
+  --color-accent:         #B8860B;   /* Abgedunkeltes Logo-Gelb (lesbar als Text) */
   --color-bg:             #FDFAF6;   /* Warmes Weiß – Seitenhintergrund */
   --color-bg-alt:         #F3EAD8;   /* Helles Beige */
   --color-bg-dark:        #1E1208;   /* Sehr dunkles Braun – Footer */
@@ -215,7 +215,7 @@ p:last-child { margin-bottom: 0; }
 
 .btn--secondary {
   background-color: var(--color-secondary);
-  color: var(--color-white);
+  color: var(--color-text);
   border-color: var(--color-secondary);
 }
 .btn--secondary:hover {
@@ -786,7 +786,7 @@ p:last-child { margin-bottom: 0; }
   gap: var(--space-2);
   font-size: var(--fs-sm);
   font-weight: 600;
-  color: var(--color-secondary);
+  color: var(--color-primary);
   transition: gap var(--transition);
   margin-top: auto;
 }
