@@ -41,7 +41,7 @@
 (function initTypewriter() {
   const el = document.querySelector('.hero__typed');
   if (!el) return;
-  const phrases = ['präzise & zuverlässig.', 'Montage mit System.', 'Termin einfach online buchen.', 'Qualität die hält.'];
+  const phrases = ['Kompetent. Schnell. Zuverlässig.', 'Sondermaschinenbau seit 2004.', 'Ihr Partner für die Papiersackindustrie.', 'Termin einfach online buchen.'];
   let phraseIdx = 0, charIdx = 0, deleting = false;
   const tick = () => {
     const phrase = phrases[phraseIdx];

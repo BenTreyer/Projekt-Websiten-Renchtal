@@ -136,7 +136,7 @@ p:last-child { margin-bottom: 0; }
 .service-detail-card:hover .service-detail-card__image { transform: scale(1.04); }
 .service-detail-card__icon-wrap { display: flex; align-items: center; justify-content: center; width: 64px; height: 64px; border-radius: 50%; background-color: var(--color-secondary); position: absolute; bottom: -32px; left: var(--space-6); box-shadow: var(--shadow-md); }
 .service-detail-card__icon { width: 30px; height: 30px; color: var(--color-white); }
-.service-detail-card__body { padding: calc(var(--space-8) + var(--space-2)) var(--space-6) var(--space-6); flex: 1; display: flex; flex-direction: column; position: relative; overflow: hidden; }
+.service-detail-card__body { padding: var(--space-6); flex: 1; display: flex; flex-direction: column; position: relative; overflow: hidden; }
 .service-detail-card__tag { font-size: var(--fs-xs); font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-accent); margin-bottom: var(--space-3); }
 .service-detail-card__title { font-size: var(--fs-xl); margin-bottom: var(--space-3); }
 .service-detail-card__text { color: var(--color-text-muted); font-size: var(--fs-sm); line-height: 1.7; flex: 1; margin-bottom: var(--space-5); }
@@ -168,6 +168,7 @@ p:last-child { margin-bottom: 0; }
 .team-card:hover .team-card__photo { transform: scale(1.04); box-shadow: var(--shadow-lg); }
 .team-card__name { font-size: var(--fs-lg); margin-bottom: var(--space-1); }
 .team-card__role { font-size: var(--fs-sm); color: var(--color-text-muted); margin-bottom: 0; }
+.team-card__name--anonymized { color: var(--color-text-muted); font-weight: 500; }
 
 .reviews-grid { display: grid; gap: var(--space-6); }
 .review-card { background: rgba(255,255,255,0.07); border: 1px solid rgba(255,255,255,0.14); border-radius: var(--radius-lg); padding: var(--space-8); display: flex; flex-direction: column; gap: var(--space-5); transition: background-color var(--transition), transform var(--transition); }
