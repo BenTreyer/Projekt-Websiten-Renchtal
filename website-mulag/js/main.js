@@ -78,13 +78,3 @@
   targets.forEach((el,i)=>{el.style.opacity='0';el.style.transform='translateY(28px) scale(0.98)';el.style.transition=`opacity 0.6s ease ${Math.min(i*55,380)}ms, transform 0.6s ease ${Math.min(i*55,380)}ms`;obs.observe(el);});
 })();
 
-(function initContactForm() {
-  const form = document.getElementById('kontaktformular'); if (!form) return;
-  form.addEventListener('submit', e => {
-    e.preventDefault();
-    const name=form.querySelector('#k-name')?.value.trim()||'', email=form.querySelector('#k-email')?.value.trim()||'', msg=form.querySelector('#k-nachricht')?.value.trim()||'';
-    if (!name || !email || !msg) { alert('Bitte füllen Sie alle Pflichtfelder aus.'); return; }
-    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { alert('Bitte geben Sie eine gültige E-Mail-Adresse ein.'); return; }
-    const btn=form.querySelector('[type=submit]'); if(btn){btn.textContent='Nachricht gesendet ✓';btn.disabled=true;}
-  });
-})();
