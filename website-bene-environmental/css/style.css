@@ -574,7 +574,7 @@ p:last-child { margin-bottom: 0; }
 .service-detail-card__icon { width: 30px; height: 30px; color: var(--color-white); }
 
 .service-detail-card__body {
-  padding: calc(var(--space-8) + var(--space-2)) var(--space-6) var(--space-6);
+  padding: var(--space-6);
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -1066,6 +1066,7 @@ textarea.form-control { min-height: 140px; resize: vertical; }
   .projects-grid   { grid-template-columns: repeat(2, 1fr); }
   .footer-main     { grid-template-columns: repeat(2, 1fr); }
   .footer-bottom__inner { flex-direction: row; justify-content: space-between; text-align: left; }
+  .weitere-leistungen-liste { grid-template-columns: repeat(2, 1fr) !important; }
 }
 
 /* =============================================
