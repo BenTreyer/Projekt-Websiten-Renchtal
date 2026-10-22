@@ -1,0 +1,33 @@
+AKQUISE E-MAIL VORLAGE
+Erstansprache potenzieller Kunden ohne eigene Website
+Platzhalter in [ECKIGEN KLAMMERN] individuell pro Firma anpassen.
+
+---
+
+Betreff: Eine Website für [Unternehmensname], schon fertig und ganz unverbindlich
+
+---
+
+Guten Tag [Anrede + Nachname],
+
+als wir uns kürzlich mit Unternehmen aus der Region beschäftigt haben, ist uns aufgefallen, dass [Unternehmensname] bisher keine eigene Website hat. Wer online nach einem Betrieb wie Ihrem sucht, landet dann schnell bei der Konkurrenz, unabhängig davon, wie gut Ihre eigentliche Arbeit ist.
+
+Deshalb zeigen wir Ihnen lieber direkt, was möglich ist, statt lange darüber zu schreiben. Wir haben bereits eine vollständige Website für [Unternehmensname] gebaut, ganz unverbindlich.
+
+Kurz zu uns, damit Sie wissen, mit wem Sie es zu tun haben. Mein Name ist Ben Treyer, ich besuche die 12. Klasse des Hans-Furler-Gymnasiums in Oberkirch. Gemeinsam mit Maximilian Klattig, der Wirtschaftsingenieurwesen am Karlsruher Institut für Technologie studiert, baue ich in meiner Freizeit Websites für Unternehmen aus dem Renchtal und der näheren Umgebung. Wir haben uns bewusst entschieden, uns damit selbstständig zu machen.
+
+Die fertige Website für [Unternehmensname] können Sie sich hier in Ruhe ansehen: [LINK ZUR WEBSITE]
+
+Es gibt dabei keinen Druck und keine Frist. Wenn Ihnen gefällt, was Sie sehen, melden Sie sich gerne bei uns, dann besprechen wir unverbindlich alles Weitere. Falls Ihnen die Website in dieser Form nicht zusagt, bauen wir Ihnen auch gerne eine andere Version. Und falls Sie grundsätzlich kein Interesse haben, ist das für uns genauso in Ordnung. Dann hat es uns trotzdem gefreut, uns mit Ihrem Unternehmen beschäftigt zu haben.
+
+Über eine kurze Rückmeldung würden wir uns in jedem Fall freuen.
+
+Viele Grüße aus Oberkirch,
+Ben Treyer & Maximilian Klattig
+[E-Mail] | [Telefon]
+
+---
+
+NOCH OFFEN:
+- Konkrete E-Mail-Adresse und Telefonnummer für die Signatur festlegen
+- Pro Firma: [Unternehmensname], Anrede/Nachname und Link zur jeweiligen Demo-Website einsetzen
