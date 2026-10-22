@@ -558,7 +558,7 @@ p:last-child { margin-bottom: 0; }
 .service-detail-card:hover .service-detail-card__image { transform: scale(1.04); }
 
 .service-detail-card__icon-wrap {
-  display: flex;
+  display: none;
   align-items: center;
   justify-content: center;
   width: 64px;
